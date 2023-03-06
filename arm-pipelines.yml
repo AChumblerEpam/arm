@@ -1,3 +1,2 @@
-steps:
-  - script: echo ARM says hello!
-    displayName: 'SayHelloARM'
+- script: echo ARM says hello!
+  displayName: 'SayHelloARM'
